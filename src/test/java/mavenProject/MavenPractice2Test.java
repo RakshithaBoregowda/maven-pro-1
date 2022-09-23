@@ -3,6 +3,7 @@ package mavenProject;
 import org.testng.annotations.Test;
 
 public class MavenPractice2Test
+
 {
 	@Test
 	public void step1Test()
